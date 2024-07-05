@@ -1,0 +1,27 @@
+img{
+    width: 200px;
+    height: 200px;
+    margin-center: 400px;
+    margin-right: 30px;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+
+
+}
+body{
+background-color:lightblue;
+}
+h1{
+    font-style: italic;
+    background-color: rgb(223, 188, 188);
+    margin:auto
+    text-align: center;
+    border-radius:900px;
+    margin-top: 20px;
+    margin-bottom: 20px
+    
+    
+}
